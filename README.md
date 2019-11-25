@@ -34,8 +34,7 @@ Calculated by multiplying customer value with average customer lifespan.
   
 
 ## Cross-Segment Cohort Analysis
-  
-  
+
   ![RMF 3](https://user-images.githubusercontent.com/32847030/69503479-25f16500-0ee8-11ea-8de2-0bf5219e1110.gif)
   
   ![DEMO 2](https://user-images.githubusercontent.com/32847030/69503490-30abfa00-0ee8-11ea-9e45-adaf2fd6bc32.gif)
